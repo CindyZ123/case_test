@@ -1,9 +1,294 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T07:29:15.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.21" etag="QxZTUA7uEGwxOwGT4Aq1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T09:40:55.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XLB4c0cMePTJYqgNS7Z1" version="22.1.21" type="github">
   <diagram name="Page-1" id="gfQk49UszECdJ38JAOil">
-    <mxGraphModel>
+    <mxGraphModel dx="1127" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fSdOAcniPO1_o1MMpahb-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Step 1&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Step 2&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Step 3&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Communities&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.5" y="100" as="sourcePoint" />
+            <mxPoint x="239.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Min-Max Normalisation&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;PCA&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.053;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-11" target="fSdOAcniPO1_o1MMpahb-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;PCs with ascending characteristics were used as the primary basis, and the Z-Score value of the total PCA score was used as a supplementary basis to judge community change jointly.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;verticalAlign=middle;gradientColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="305" y="120" width="215" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-9" target="fSdOAcniPO1_o1MMpahb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Ascending&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Stable&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Declining&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-16" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Robust&lt;br&gt;Ascending Communities&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-13" target="fSdOAcniPO1_o1MMpahb-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="350" as="sourcePoint" />
+            <mxPoint x="510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="315.03703703703695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-23" value="&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Standardisation：&lt;/font&gt;Box-Cox &lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;and&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: DengXian;&quot; lang=&quot;EN-US&quot;&gt;&amp;nbsp;Yeo-Johnson Power&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Scalling: Z-Score and&amp;nbsp;&lt;/font&gt;&lt;/span&gt;Robust Scaler (inter-decile range)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="175" y="392.53" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.857;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="392.53" as="sourcePoint" />
+            <mxPoint x="244.98000000000002" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-25" target="fSdOAcniPO1_o1MMpahb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;K-Means&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-27" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Performance testing using the Calinski-Harabasz Index&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Calculating K-values using Scikit_learn&#39;s Silhouette score&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="334" y="392.53" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Evaluation of Cluster&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="305" y="260" width="215" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-29" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Gentrifica&lt;br&gt;tion&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-30" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Non -Gentrifica&lt;br&gt;tion&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-31" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.556;entryY=0.977;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-27" target="fSdOAcniPO1_o1MMpahb-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="390" as="sourcePoint" />
+            <mxPoint x="555.7142857142856" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-36" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Robust&lt;/b&gt;&lt;b&gt;&lt;br&gt;Gentrification&lt;br&gt;LSOA&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Compared with predicted Gentrification LSOA&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-36" target="fSdOAcniPO1_o1MMpahb-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="670" as="sourcePoint" />
+            <mxPoint x="270" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-40" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Explore spatial differences&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-41" value="&lt;b&gt;Labelled predicted non-gentrification, but gentrification actually occurred LSOA&lt;/b&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-42" value="&lt;b&gt;Labelled predicted gentrification, but non-gentrification actually occurred LSOA&lt;/b&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-43" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-44" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="590" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-37" target="fSdOAcniPO1_o1MMpahb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-46" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="741.25" y="588.75" width="70" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-28" target="fSdOAcniPO1_o1MMpahb-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="548" y="197" as="targetPoint" />
+            <mxPoint x="527" y="197" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-57" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Gentrifying Communities&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="731.25" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-60" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Logic Regression Model&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="140" y="731.25" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-61" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Testing for heterogeneity of key factors&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="320" y="731.25" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;M&lt;/b&gt;&lt;b&gt;ultiple Linear&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;Regression Model&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;(Sellect factors)&lt;/b&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="140" y="871.25" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-64" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="761.25" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-65" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="826.25" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-60" target="fSdOAcniPO1_o1MMpahb-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="761.25" as="sourcePoint" />
+            <mxPoint x="390" y="711.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-69" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Exploring the dominant factors affecting gentrification&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="320" y="871.25" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-63" target="fSdOAcniPO1_o1MMpahb-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="761.25" as="sourcePoint" />
+            <mxPoint x="390" y="711.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;GWR Models&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="690" y="730" width="90" height="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="677.9999999999998" y="1050.0000000000002" as="sourcePoint" />
+            <mxPoint x="677.9999999999998" y="1050.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-76" target="fSdOAcniPO1_o1MMpahb-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-76" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="825" width="151.25" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-78" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Random Forest Model&lt;br&gt;(Regression)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="140" y="801.25" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-79" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Exploring the importance of all factors&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="320" y="801.25" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="828.44" as="sourcePoint" />
+            <mxPoint x="320" y="828.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-81" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;Summarising the key of gentrification&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="730" width="90" height="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-86" target="fSdOAcniPO1_o1MMpahb-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-86" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Exploring the Spatial Patterns of Gentrification&lt;br&gt;&lt;/font&gt;&lt;/span&gt;(London)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="731.25" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-81" target="fSdOAcniPO1_o1MMpahb-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="920" as="sourcePoint" />
+            <mxPoint x="900" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-72" target="fSdOAcniPO1_o1MMpahb-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="920" as="sourcePoint" />
+            <mxPoint x="900" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-95" value="&lt;b&gt;Comparing the Spatial Patterns of Gentrification&lt;br&gt;(Amsterdam)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;rounded=0;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="910" y="731.25" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-97" target="fSdOAcniPO1_o1MMpahb-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-97" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;The Success in Alleviating Gentrification Case&lt;br&gt;(London, Amsterdam)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="1340" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-98" value="&lt;b&gt;&amp;nbsp;Comparing Urban Challenges and Assess the Efficacy of Existing Policies to Propose Enhancements&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;rounded=0;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="1340" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-100" value="&lt;b&gt;Evaluating the Impact of Policies on Gentrification Trends&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fSdOAcniPO1_o1MMpahb-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357.5" y="1570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-101" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;Natural Language Model&lt;br&gt;(Social Media)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-102" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Examining if housing&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;prices have been kept at reasonable rates&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-104" target="fSdOAcniPO1_o1MMpahb-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357.5" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-104" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;i.e. whether gentrification has been transformed or has not continued to worsen.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1254" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-108" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;If the data support,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;it will use social media to assess public&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;opinion on the community, housing prices, and environmental changes pre-and post-&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;policy application&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1560" width="277.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-115" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1370" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-116" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="1435" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-198" value="&lt;b&gt;Applied to&amp;nbsp;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-196" target="fSdOAcniPO1_o1MMpahb-199">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1007.5" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-196" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Summarising effective policies&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1340" width="95" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-199" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;Gentrified Communities in Amsterdam&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1340" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="fSdOAcniPO1_o1MMpahb-200" target="fSdOAcniPO1_o1MMpahb-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSdOAcniPO1_o1MMpahb-200" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="1365" width="10" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
