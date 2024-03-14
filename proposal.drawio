@@ -1,26 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T09:00:26.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="l_UBidjs4aTNJQ4ZbvE5" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T09:58:20.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mKrMCmFZoTAJF4AusUXn" version="24.0.1" type="github">
   <diagram name="Page-1" id="e0dU8aj4kJPcj-eKRje5">
-    <mxGraphModel dx="1272" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fAYKZb8tC003D7oPLNtD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-1" target="fAYKZb8tC003D7oPLNtD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fAYKZb8tC003D7oPLNtD-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Hypothesis&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;1&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;(Accuracy over 85%)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="100" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fAYKZb8tC003D7oPLNtD-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Reducing the overfitting of the&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;predictive&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;model&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="fAYKZb8tC003D7oPLNtD-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-2" target="fAYKZb8tC003D7oPLNtD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Reducing the overfitting of the&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;predictive&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;model&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fAYKZb8tC003D7oPLNtD-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;u&gt;1. Adding Factor：&lt;/u&gt;&lt;/b&gt; to foster the model to learn additional data features.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;u&gt;2. Adjusted parameters: &lt;/u&gt;&lt;/b&gt;For example, using the Bayesian method to optimise model parameters or change the depth or number of trees in random forests.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;align=left;spacingLeft=3;spacingRight=3;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="420" height="130" as="geometry" />
+        <mxCell id="fAYKZb8tC003D7oPLNtD-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-3" target="fAYKZb8tC003D7oPLNtD-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fAYKZb8tC003D7oPLNtD-4" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Non -Gentrifica&lt;br&gt;tion&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="60" y="740" width="80" height="60" as="geometry" />
+        <mxCell id="fAYKZb8tC003D7oPLNtD-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;u&gt;1. Adding Factor：&lt;/u&gt;&lt;/b&gt; to foster the model to learn additional data features.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;u&gt;2. Adjusted parameters: &lt;/u&gt;&lt;/b&gt;For example, using the Bayesian method to optimise model parameters or change the depth or number of trees in random forests.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;align=left;spacingLeft=3;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="500" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-5" target="fAYKZb8tC003D7oPLNtD-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fAYKZb8tC003D7oPLNtD-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Hypothesis&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: bold;&quot;&gt;(Accuracy&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;between 75% and 85%&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="100" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fAYKZb8tC003D7oPLNtD-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Reducing&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;the bias of the predictive model&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;fontSize=12;align=center;spacingLeft=3;spacingRight=4;" vertex="1" parent="1">
+        <mxCell id="fAYKZb8tC003D7oPLNtD-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-6" target="fAYKZb8tC003D7oPLNtD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Reducing&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;the bias of the predictive model&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;fontSize=14;align=center;spacingLeft=3;spacingRight=4;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-8" target="fAYKZb8tC003D7oPLNtD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Scenario 1&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(Accuracy &amp;gt;= 85%)&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-9" target="fAYKZb8tC003D7oPLNtD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-9" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;It aims to evaluate whether different key factors impact the accuracy of the model.&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Replacing predictive model factors&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; font-weight: 700;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;The factors will be based on the results of the previous research question&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; font-weight: 700;&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;align=left;spacingLeft=3;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-13" target="fAYKZb8tC003D7oPLNtD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-13" value="Scenario 2&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;Accuracy &amp;lt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;85%)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-15" value="&lt;b&gt;&lt;u&gt;Adjusting Strategies:&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;updating key factors continually in the future to maintain the accuracy of model predictions.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;align=center;gradientColor=#BFE3B8;spacingLeft=3;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-16" target="fAYKZb8tC003D7oPLNtD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-16" value="Replacing other tree model(i.e. XGboost)" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-18" target="fAYKZb8tC003D7oPLNtD-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="340" />
+              <mxPoint x="830" y="450" />
+              <mxPoint x="120" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-18" value="If it wouldn&#39;t help to increased the accuracy" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;align=center;gradientColor=#BFE3B8;spacingLeft=3;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-9" target="fAYKZb8tC003D7oPLNtD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-20" target="fAYKZb8tC003D7oPLNtD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Hypothesis&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: bold;&quot;&gt;(Accuracy&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;below&lt;br&gt;75%&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Change algorithm&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;fontSize=14;align=center;spacingLeft=3;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="470" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-24" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;For example:&lt;/span&gt;&lt;div&gt;Build the Neural Networks Model&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Convolutional Neural Networks (CNN)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;align=center;spacingLeft=3;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-25" value="&lt;div&gt;For example:&lt;br&gt;&lt;/div&gt;The Temporal Model&lt;div&gt;(RNN or LSTM&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;align=center;spacingLeft=3;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-27" target="fAYKZb8tC003D7oPLNtD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-27" value="&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;If the data support&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;spacingLeft=-21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-28" target="fAYKZb8tC003D7oPLNtD-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Detecting the reason of bias within the predictive model&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;fontSize=14;spacingRight=3;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="80" width="100" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-31" target="fAYKZb8tC003D7oPLNtD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-31" value="Visualisation &lt;span style=&quot;font-weight: normal;&quot;&gt;(ArcGIS)&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;align=center;spacingLeft=3;spacingRight=3;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="114" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-32" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Case Study:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Selecting the neighbourhoods with a predictive accuracy of less than 50%&amp;nbsp; to explore the specific factors for the bias of the predictive model&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;fontSize=14;spacingRight=3;spacingLeft=9;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="80" width="190" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-38" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-12" target="fAYKZb8tC003D7oPLNtD-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="340" as="sourcePoint" />
+            <mxPoint x="600" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-52" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-21" target="fAYKZb8tC003D7oPLNtD-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310.0000000000001" y="490" as="sourcePoint" />
+            <mxPoint x="310" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-58" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="820" y="500" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fAYKZb8tC003D7oPLNtD-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="340" as="sourcePoint" />
+            <mxPoint x="890" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
