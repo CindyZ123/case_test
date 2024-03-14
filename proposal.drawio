@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T09:59:36.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Qcgn1dwh1Vn4XvesotbN" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T10:08:20.619Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BLa12QipToDMBe8LbOmS" version="24.0.1" type="github">
   <diagram name="Page-1" id="e0dU8aj4kJPcj-eKRje5">
-    <mxGraphModel dx="2120" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,6 +141,125 @@
             <mxPoint x="850" y="340" as="sourcePoint" />
             <mxPoint x="890" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-64" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Gentrifying Communities&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="770" width="90" height="161.25" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;M&lt;/b&gt;&lt;b&gt;ultiple Linear&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;Regression Model&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;(Sellect factors)&lt;/b&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="140" y="871.25" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-66" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="790" width="10" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-67" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="845.63" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-68" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Exploring the dominant factors affecting gentrification&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="320" y="871.25" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-65" target="fAYKZb8tC003D7oPLNtD-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="761.25" as="sourcePoint" />
+            <mxPoint x="390" y="711.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-70" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;GWR Models&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="690" y="770" width="90" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-79" target="fAYKZb8tC003D7oPLNtD-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551.875" y="831.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-72" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Random Forest Model&lt;br&gt;(Regression)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="140" y="770" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-73" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Exploring the importance of all factors&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="320" y="777.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="804.69" as="sourcePoint" />
+            <mxPoint x="320" y="804.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-75" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;Summarising the key of gentrification&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b&gt;(F&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;actor Library&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="770" width="90" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-76" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Exploring the Spatial Patterns of Gentrification&lt;br&gt;&lt;/font&gt;&lt;/span&gt;(London)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="770" width="90" height="161.25" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-75" target="fAYKZb8tC003D7oPLNtD-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="920" as="sourcePoint" />
+            <mxPoint x="900" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-70" target="fAYKZb8tC003D7oPLNtD-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="920" as="sourcePoint" />
+            <mxPoint x="900" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-79" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="484.375" y="846.255" width="121.25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-81" target="fAYKZb8tC003D7oPLNtD-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-81" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;It will be used in the following research question&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="555" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-84" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;The Success in Slowing down or preventing gentrification&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b&gt;Case&lt;/b&gt;&lt;br&gt;&lt;b&gt;(London, Amsterdam)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1311" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-85" value="&lt;b&gt;Evaluating the Impact of Policies on Gentrification Trends&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="1306" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fAYKZb8tC003D7oPLNtD-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243.75" y="1536" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-87" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;Natural Language Model&lt;br&gt;(Social Media)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="1446" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-88" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Examining if housing&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;prices have been kept at reasonable rates&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="1376" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-90" target="fAYKZb8tC003D7oPLNtD-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243.75" y="1306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-90" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;i.e. whether gentrification has been transformed or has not continued to worsen.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="173.75" y="1220" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-91" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;If the data support,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;it will use social media to assess public&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;opinion on the community, housing prices, and environmental changes pre-and post-&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;policy application&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;spacingLeft=-21;" vertex="1" parent="1">
+          <mxGeometry x="176.25" y="1526" width="277.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-92" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="163.75" y="1336" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-93" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126.25" y="1401" width="37.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-94" value="&lt;b&gt;Applied to&amp;nbsp;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-95" target="fAYKZb8tC003D7oPLNtD-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="893.75" y="1416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-95" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Summarising effective policies&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="361.25" y="1306" width="95" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-96" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;Gentrified Communities in Amsterdam&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="536.25" y="1306" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="fAYKZb8tC003D7oPLNtD-98" target="fAYKZb8tC003D7oPLNtD-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAYKZb8tC003D7oPLNtD-98" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="333.75" y="1331" width="10" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
